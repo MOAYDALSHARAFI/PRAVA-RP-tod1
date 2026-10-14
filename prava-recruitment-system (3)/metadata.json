@@ -1,0 +1,6 @@
+{
+  "name": "PRAVA - منصة التوظيف الموحدة",
+  "description": "منصة التوظيف الموحدة لقطاعات PRAVA، نظام تقديم متطور بـ 4 مراحل مع اختبارات قبول مخصصة ولوحة تحكم متكاملة للإدارة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
